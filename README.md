@@ -1,4 +1,4 @@
-** 📊 Sales Pipeline & Revenue Operations Analysis
+## 📊 Sales Pipeline & Revenue Operations Analysis
 
 
 An end-to-end revenue operations analysis tracking sales performance, pipeline velocity, discount impact, and order trends, built with SQL and Power BI.
@@ -6,14 +6,14 @@ An end-to-end revenue operations analysis tracking sales performance, pipeline v
 
 
 
-** Business Problem
+## Business Problem
 
 Revenue and sales operations teams need clear, reliable visibility into how revenue is being generated, where discounts are eroding profit, and how order volume is trending over time. Without this visibility, businesses cannot make informed decisions around pricing strategy, territory planning, or quota management.
 
 This project simulates that environment, delivering the kind of operational intelligence a Revenue Operations team uses daily.
 
 
-** Objectives
+## Objectives
 
 
 Track total revenue, profit, and order performance over time
