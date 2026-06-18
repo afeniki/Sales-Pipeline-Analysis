@@ -41,7 +41,7 @@ This project simulates that environment, delivering the kind of operational inte
 │   ├── 01_data_cleaning.sql        # Null handling, deduplication, standardization
 │   └── 02_revenue_metrics.sql      # KPI queries: revenue, AOV, discount analysis
 ├── dashboard/
-│   └── dashboard_screenshot.png    # Power BI dashboard preview
+│   └── screenshot.png    # Power BI dashboard preview
 ├── report/
 │   └── Sales_Pipeline_Report.pdf   # Full analysis report with findings
 
