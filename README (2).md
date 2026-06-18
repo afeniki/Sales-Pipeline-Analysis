@@ -44,7 +44,7 @@ This project simulates that environment, delivering the kind of operational inte
 │   └── dashboard_screenshot.png    # Power BI dashboard preview
 ├── report/
 │   └── Sales_Pipeline_Report.pdf   # Full analysis report with findings
-└── README.md
+
 ```
 
 ---
